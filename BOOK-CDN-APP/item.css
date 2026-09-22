@@ -1,0 +1,18 @@
+.item{
+    width:400px;
+    height:400px;
+    background-color: blue;
+    border:2px palevioletred;
+    border-radius:20px;
+    display:flex;
+    flex-direction :column;
+    justify-content :center;
+    
+
+}
+.home{
+    width: 100vw;
+    height:vh;
+   display:flex;
+   flex-wrap:wrap;
+}
